@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.ex5
+*.ex4
+*.log
+*.zip
+results/
+*_equity.csv
+*_trades.csv
+*_settings.csv
+.DS_Store
